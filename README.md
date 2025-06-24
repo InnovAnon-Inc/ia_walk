@@ -57,14 +57,6 @@ To use this module, ensure you have the `aiofiles` library installed. You can in
 pip install aiofiles
 ```
 
-## Requirements
-
-This module requires the `bitarray` library. You can install it using pip:
-
-```bash
-pip install bitarray
-```
-
 ## Author
 
 This module is developed by InnovAnon, Inc.
